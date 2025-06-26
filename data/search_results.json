@@ -1,0 +1,14 @@
+{
+  "average_metrics": {
+    "HITS@1": 1.0,
+    "HITS@5": 1.0,
+    "HITS@10": 1.0,
+    "MRR": 1.0
+  },
+  "model_name": "all-MiniLM-L6-v2",
+  "dataset_info": {
+    "total_rows": 500,
+    "unique_products": 495,
+    "unique_queries": 50
+  }
+}
